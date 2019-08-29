@@ -1,2 +1,4 @@
 # IBM_Personality_Insights_Test
-Testing IBM Watson's for counterfactual examples and understanding the tool's human rights implications
+Using counterfactual examples to understand some of the human rights implications of IBM Watson's Personality Insights. 
+
+<work in progress>
