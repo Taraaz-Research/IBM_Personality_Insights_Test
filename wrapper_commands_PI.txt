@@ -1,4 +1,5 @@
 
+// Wrapper file: curl examples
 // send input as a text file and receive json output (raw score)
 
 curl -X POST -u "apikey:{apikey}" \
