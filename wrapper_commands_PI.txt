@@ -1,0 +1,30 @@
+
+// send input as a text file and receive json output (raw score)
+
+curl -X POST -u "apikey:{apikey}" \
+--header "Content-Type: text/plain;charset=utf-8" \
+--header "Accept: application/json" \
+--data-binary @<Input_filename>.txt \
+--output <output_filename>.json \
+"{url}/v3/profile?version=2017-10-13&consumption_preferences=true&raw_scores=true"
+
+
+// send input as a json file and receive json output (raw data + percentile) -- Tweet
+
+curl -X POST -u "apikey:{apikey}" \
+--header "Content-Type: application/json" \
+--header "Accept: application/json" \
+--data-binary @<Input_filename>.json \
+--output <output_filename>.json \
+"{url}/v3/profile?version=2017-10-13&consumption_preferences=true"
+
+
+
+// json to CSV + with output
+
+curl -X POST -u "apikey:{apikey}" \
+--header "Content-Type: application/json" \
+--header "Accept: text/csv" \
+--data-binary @<Input_filename>.json \
+--output <output_filename>.csv \
+"{url}/v3/profile?version=2017-10-13&consumption_preferences=true&raw_scores=true&csv_headers=true"
