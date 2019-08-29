@@ -1,0 +1,148 @@
+For some time now I have been thinking about the social and human rights implications of Artificial Intelligence in our lives. Following every news item and talks and events and webinars and anything you think of: from algorithmic and data bias that perpetuates racial bias in the U.S. justice system to an AI recognizing your sexuality based on your facial features. (Despite the privacy and security issues of this tool, I couldn’t stop thinking how this tool is applicable in countries like mine which has the highest rate of nose jobs!).
+
+Data bias and algorithmic transparency are far from the only social and ethical implications of AI. Academic and research institutions, non-profits, and think tanks have started working on understanding AI’s positive and potential negative impacts on our societies. They are eager to find answers to questions like:
+
+ How can we avoid existential threats of AI and keep humans in control of it?  How to avoid autonomous warfare?
+With the emergence of the fourth industrial revolution, what is going to be the future of work? What are the economic impacts of it within and between countries?
+How is AI governance going to look like? How should we change our laws and international framework to be compatible with all these changes coming from automation and human-level AI?
+Should AI values and morality be in line with ours?
+How can we harness this enormous advancement of AI for social good and fulfilling human rights?
+How is AI going to change social and cognitive behaviors of our kids?
+These questions are just a few of many.
+
+As a human rights researcher focusing on the impacts of emerging technologies in our societies, I decided to start curating a bi-weekly newsletter called Humane-AI. My goal is to raise your curiosity and awareness about the social and human rights implications of AI.
+
+If you are a data scientists caring about the issue of data bias or algorithm transparency or an economist wondering about the future of work, or a technology policy analyst, or even if you are a human rights advocate concerned about the role of emerging technologies in our societies, this newsletter is for you.
+
+Here you can find the first issue. If you like it, please subscribe, I am planning to add interviews, book and movie reviews, and conference reports in the future. I always appreciate your feedback and suggestions.
+
+
+In January of this year, more than 60 Californians braved the rain and gathered in Palo Alto to protest against the possibility that Palantir would partner with the new U.S. administration to build a Muslim registry. I saw it as a sign of what has since become clear: there are many tech workers in the U.S. who are newly inspired to participate in politics, and specifically to listen to members of marginalized communities, and put pressure on company leadership to respect their human rights. And they’re starting to connect with others who feel the same way.
+
+I’m a trained engineer and a former tech worker. I left the tech world with a feeling of relief. I’d always been good at math and physics, and as a kid, I fell into a STEM track without really knowing why. Years later, I found myself in the U.S., working as an electrical engineer on an H1B visa. But it never felt like my calling. I often wished that my colleagues cared more about the world outside their cubicles.
+
+I did what I could to get out myself, volunteering for nonprofit partnerships via my employer AMD, including mentoring young girls in engineering. But it didn’t feel like I was doing enough. So I quit my job in Austin and moved to New York City to work toward a master’s degree at Columbia’s Institute for the Study of Human Rights.
+
+Today I find myself between two worlds (in more ways than one). Right now, I’m helping Access Now with RightsCon, the yearly conference that explores the intersection of human rights and technology. I am an engineer and understand what’s happening from that standpoint, but I also see the tech world from a humanities perspective. And what I am seeing right now is heartening: more tech workers in the U.S. are getting involved in politics. They’re seeing how their work impacts human rights, and they want to have a say in what happens.
+
+The crowd that gathered to demonstrate in Palo Alto were inspired by a new initiative called Tech Solidarity, launched by a Polish-American entrepreneur and software developer named Maciej Ceglowski. In its own words, the group aims to “better connect tech workers with the communities they live in.”  For me, the group’s existence is a reassuring affirmation that there are other people who don’t want to be complicit in letting their expertise or products be used to harm the rights of marginalized people in the U.S. or around the world. People joining groups like this can send a strong message: We won’t stand by and watch when Muslims, immigrants, refugees, or any other group is targeted for U.S. government surveillance. It didn’t stop there, either. Not long afterward, people circulated a pledge, Never Again, which has now been signed by 3,000 individuals, most of whom are employees at large technology companies.  
+
+Now the issues that inspired the demonstration are sparking more tech activism. After President Trump issued an Executive Order on refugees and immigration that banned travel from seven Muslim-majority countries for 90 days, tech workers refused to stand silent. They demanded that top executives show solidarity with immigrant communities and take a public stand against the EO. Googlers and Comcast workers organized a walkout and rallies against the order. Qualcomm workers wrote a letter to their own CEO demanding that he take action publicly. Uber staff questioned their CEO’s presence on Trump’s advisory board. Tech workers have since been organizing meetups and protest events through Facebook.
+
+
+
+These protests have had concrete results: more than 130 companies have filed amicus briefs against the Trump travel ban, which has now been rejected by the Ninth Circuit Court of Appeals.
+
+The question now is, will this new energy last? And if so, how will it manifest in action? It’s impossible to predict the future, but this budding movement could follow a few different vectors, which I sketch out here:
+
+Tech workers could explore unions: Labor strikes, protesting, public letters, etc. are all relatively new, untested tactics for tech workers in Silicon Valley. It’s interesting to see tech workers (who often have a libertarian ethos) embark on collective action traditionally performed by labor unions. It makes me wonder whether the time is coming when techies in the U.S. (especially immigrants) decide to unionize, so they have a strong, unified voice to advocate for their own rights and the rights of people doing the underpaid contract work that is the underbelly of tech companies, such as making food, cleaning tech campuses, sifting through abusive content at overseas monitoring centers, and building our phones.  
+
+Tech workers could participate in more bottom-up movements:  For a long time, you could sum up tech companies’ Corporate Social Responsibility initiatives as comprising community service activities such as preserving local parks, tutoring, or, at most, partnering with NGOs to provide humanitarian aid. For a long time, we only saw the top executives in tech companies featured in the news, for starting philanthropic foundations or social good initiatives. When I was at AMD, I dreamt of opening a newspaper or a website to find word of a bottom-up initiative led by tech workers, not their bosses. Employees could be challenging the companies they work for, holding their CEOs accountable for respecting human rights (like the right to privacy), or for providing transparency. We’re seeing a hint of the possibilities in broad-based initiatives like Tech Solidarity and Tech Stands Up, and there could soon be a whole new wave of efforts to ensure senior leadership maintains standards of ethical conduct. More than that, perhaps we will start to see tech-worker movements improve the public standing of an industry that is often associated with the apathetic “tech bro” stereotype (a stereotype that research shows is not unsubstantiated).
+
+As a person who strongly believes that technology workers should acknowledge their societal impact and be proactive in standing up for human rights, it is encouraging to see that techies have started embracing this idea, educating themselves, seeking help from NGOs, and pushing their companies in the right direction.
+
+Perhaps it’s also time for non-profit groups to show their support for these grassroot movements and use their expertise in securing the digital rights of at-risk groups. At Access Now, for instance, we are working to strengthen our Digital Security Helpline. This work relies on the knowledge of technologists who understand that the rights to privacy and free expression do not go away when you go online. We also need more conversations where technologists and people in other disciplines come together to learn from one another’s experiences, share our knowledge, and find ways to create more just societies. RightsCon is one place to do that.
+
+Not all of us need to quit our tech jobs and go back to school to study human rights. And not everyone has to agree on every political point. But my fellow engineers, are you ready to join human rights activists so we can work together for a better and more just society for everyone? If your answer is yes, consider yourself invited to RightsCon. It’s calling you!
+
+
+Last month, I had dinner with a few friends. One of them had recently started a position at Zoosk, an online dating mobile app. The conversation ranged between living in San Francisco in your 30s, expensive rents, and startup culture — until it reached the white hot debate surrounding online dating apps and their success rates. I casually mentioned that I had used Zoosk before and that it was okay, although it didn’t end in any real dates or anything.
+
+It was here that a friend of mine mentioned that he has “backdoor” access to the site’s CMS and can thus look me up on Zoosk’s internal database. Whether he was serious or just joking, without saying a word I decided to finish my veggie ramen and drop the conversation.
+
+However, what he said stayed in my mind.
+
+A few days ago, I was interviewed for a fellowship position at Ranking Digital Rights, for their mutual project with Consumer Reports aiming to assess online privacy and security level of certain products including IoT devices, online apps, and services. After hanging up the call, the memory of the dinner with my Zoosk friend came to my mind. This time, with the knowledge I gained from the Digital Standard website and the Ranking Digital Rights indicators, I decided to test two services that I, myself, had used for dating: Zoosk and Tinder.
+
+In what follows, I’m going to imagine that I have never used these products before and put myself in a first-time user’s shoes, walking her through the application download and setup. However — unlike in the past — I’m now looking at these products through the lens of privacy and security standards.
+
+Throughout, I will imagine that this first-time user is non-technical, nor a digital rights advocate. She is just an ordinary person who has concerns about her online privacy, and, to some extent, cares about the companies’ way of handling users’ data and respecting their human rights in general. Let’s also assume that she only wants to use the IOS app version of these products.
+
+
+
+1. Downloading on the App Store
+Is the App free? If so, hold on.
+
+Zoosk and Tinder both are available to download for free. In general, if apps are free, most likely their business model relies heavily on ads. This should give you a pause. Take a moment to reflect on the ways these companies advertise to you: do they share your data with third party marketers? What kinds of information is shared with third-party ads? These data aren’t always easy to come by. But if you’re looking for answers, the place to start is with the privacy policy. We will go over these policies a bit later in this blog.
+
+Reviews
+The first thing I took a look at before downloading the apps was the user reviews available on the App Store. Here are some from both apps that raise concerns about the safety and privacy of the users:
+
+Zoosk’s users: “Lots of fake profiles, don’t waste your time and money”
+
+“Agree with the other reviewers. Stay away. Bot messages and tons of unpaid (real, fake or abondoned) users that you never really get to chat with unless you pay  insane extortion fees. Should be pulled from the store. I want a refund”
+
+Tinder’s users: “Tinder is probabely 99% bots/fake accounts. It’s not worth your time since you’re going to be swiping left 29X in a row through all the fake accounts …”
+
+Observation: Prepare yourself for scammers, bot, and fake accounts. Based on the reviews, it seems Zoosk users complain more about the scammers than Tinder. There are certain behaviors associated with fake account and scammers who want to rip off. It is important for the companies to address this issue on their Safety Tips page.
+
+Version History
+Always download the latest version of the app to avoid bugs and previous security hazards. Zoosk and Tinder are both good in terms of updating their version, in both cases pushing out updates a couple of times per month. But looking at the history of the versions does not show any details about the specific improvements made. To be fair, “bug fixes and minor improvements” is a common refrain in the version histories of most major apps – but due to their reliance on highly personal information, dating applications have an obligation to be more transparent than the norm. For example, I was hoping to find specific details of updates involving improvements to encryption, adding two-factor authentication, etc but neither Zoosk nor Tinder recorded any details about this.
+
+Privacy Policy and Terms of Use
+Those lengthy legal documents that you need to have a law degree to actually read? Sure, they can be hard to decipher. But it’s only by reading the fine print that you can know how much the company in question respects your right to privacy. As mentioned above, dating apps are heavily dependant on advertising. Zoosk and Tinder are no exceptions. The cookies embedded in both apps (and their third party advertisers) track an enormous number of data points used in targeted advertising, many of them highly personal. I’ve included a full list in this Spreadsheet.
+
+Digital Rights advocates are working hard to make companies write easier to understand privacy policies in a more readable format. In this regard, Tinder’s privacy policy beats Zoosk because it employs less formal language and offers more clarifications and examples. However, none of the services provide adequate transparency and disclosures about how they handle government and other third party requests, or even whether they notify users about those requests.
+
+2. Creating an account
+Activation
+Zoosk: You can either use your Facebook account or your email address to create an account on Zoosk.
+
+
+Swipe with Friends: Tinder
+
+ 
+
+Tinder: Tinder only lets you authenticate a username with your Facebook account.
+Upon creating an account with Facebook, Tinder guide you to its “Swipe with Friends” page and expose your Facebook friends. By default, your identity is exposed for your friends as well unless you hide it on privacy setting.
+
+Observation: One might say that activating Tinder account with Facebook ID gives legitimacy to the account and is an effective way to minimize being tricked by bots and scammers. But be aware that partnering with Facebook for the login process brings drawbacks in the context of a dating app. It has become normal to share so many personal and vulnerable pieces of data on Facebook and Instagram that the thought of a dating app automatically gaining access to this enormous body of information is sobering. So, be mindful about your Facebook privacy settings in addition to your Tinder privacy settings.
+
+One practice that both Tinder and Zoosk might implement to avoid this issue is to add another layer of privacy to the process, retaining Facebook ID as a login method but creating a firewall between all Facebook and dating app caches of personal information.
+
+Gender Preference
+Zoosk: Upon creating an account, to respond to “I’m a …” you can only choose one of these four options:
+
+“Man interested in women”
+“Woman interested in men”
+“Man interested in men”
+“Woman interested in women”
+
+Tinder: Tinder doesn’t want you to reveal your gender but to respond to its “Show me …” question you have three options: Men, Women, Men and Women.
+
+Observation: By default, Zoosk excludes non-binary genders and bisexuals.
+
+3. Using the App
+Congratulations! You created your account successfully. But, before using the apps read the Safety Tips provided by both apps, it’s easy to access and has very good tips to avoid potential hazards.
+
+Safety Tips
+Zoosk: The Safety Tips page is accessible in-app, very straightforward and covers topics such as the benefit of anonymity, using strong passwords, detecting scammers, avoiding and reporting them. It also refers you to FTC page to learn more about how to stay safe online and offline while using online dating apps.
+
+Tinder: Tinder excels Zoosk in offering Safety Tips. The tips cover topics such as learning how to be safe online and offline, tips about your health and STD vaccination, and even advice about connecting to organizations such as National Domestic Violence Hotline and Planned Parenthood. In addition to the Safety Tips page, Tinder has a Community Guidelines page to educate users about online civility including avoiding hate speech, harassment, protecting children online privacy, nudity and violence.
+
+Encryption
+As mentioned above, both apps have access to your personal information and messages. Until now, there is not any evidence of either app implementing encryption procedures that allow for totally secure and undiscoverable messaging. Tinder, however, has implemented a private Bug Bounty, offering recognition and compensation for developers who find and report bugs and vulnerabilities of the app. At least based on their publicly available documentation, this is a practice that Zoosk doesn’t offer.
+
+Data Retention
+Neither of these apps shows how long your data stays with them. In this regard they summarize their data retention policy to the following statements:
+
+Zoosk: ”You may also contact us for assistance using the details below if you want to access, remove or deactivate your account information. Nonetheless, Zoosk expressly reserves the right to maintain and store any information or other data where Zoosk reasonably believes in its sole discretion that such action is required to comply with any legal or regulatory obligations or for the detection or prevention of criminal or other unlawful activity or where Zoosk has a legitimate business reason to do so …”
+
+Tinder: ”We keep your information only as long as we need it for legitimate business purposes and as permitted by applicable legal requirements. If you close your account, we will retain certain data for analytical purposes and recordkeeping integrity …”
+
+4. Deactivation
+Do you want to delete your account like you have never ever used these apps? Forget about it. The unfortunate truth is that, under the policies currently in place at both Tinder and Zoosk, this is impossible. Based on these two companies’ privacy policies and terms of use, even after deleting your account some of your information continues to lurk on their servers.
+
+Zoosk: Zoosk makes it very hard for users to delete their accounts. If you only use Zoosk’s app, in order to terminate your account, you merely have the option of “pausing” your account for limited or unlimited time. You can visit the Zoosk website to learn how to permanently delete this information, but it’s not possible via the mobile app and is unnecessarily difficult to accomplish.
+
+Tinder: Tinder is a little better than Zoosk when it comes to avoiding “dark patterns.” Tinder lets you delete your account in-app. However, it also encourages you to “Go Hidden” instead of permanently deleting your account and erasing all that valuable user data.
+
+With this post, I’ve tried to offer a brief overview for anyone interested in the privacy protection of two of the most popular dating apps Tinder and Zoosk. As a former tech worker, I don’t want to paint every tech companies with too broad of a brush, nor do I want to believe that they are inherently evil. Therefore, I see it as my task as a user and an actor in this ecosystem to know my rights, raise my voice, and hold them accountable.
+
+I was still left with a nagging question at the end of this research: was what my friend told me true? Can Zoosk engineers really access private user data at will? I tried calling Zoosk’s customer service numbers, but none of them allowed me to reach a human being, or even leave a message.
+
+In the end, this is precisely the problem: in the absence of public accountability and customer-facing public outreach, it’s impossible to know the real-world boundaries drawn by apps that manage highly sensitive data.
+
+Perhaps some day these companies will take transparency seriously.
+
+Until that day comes, I recommend that all prospective daters swipe left on dating apps that conceal their use of customer data behind dark patterns and uninformative websites. 
