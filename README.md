@@ -6,4 +6,4 @@ Read the blog post here: https://medium.com/taraaz/https-medium-com-taraaz-human
 IBM Watson's Personality Insights API Docs: https://cloud.ibm.com/apidocs/personality-insights
 
 
-***Work in Progress***
+***Work in Progress to automate part of the text creating process***
